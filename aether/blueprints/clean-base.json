@@ -1,0 +1,46 @@
+{
+  "name": "clean base",
+  "palette": {
+    "colors": [
+      "#121212",
+      "#8d6cc8",
+      "#7579d3",
+      "#6576d2",
+      "#7579d2",
+      "#8b6cc8",
+      "#7579d3",
+      "#ffffff",
+      "#9e9e9e",
+      "#b58aff",
+      "#9999ff",
+      "#8896ff",
+      "#9999ff",
+      "#b38aff",
+      "#9999ff",
+      "#ffffff"
+    ],
+    "wallpaper": "/home/goop/Wallpapers/limine-splash.png",
+    "extendedColors": {
+      "accent": "#7579d2",
+      "cursor": "#ffffff",
+      "selection_background": "#ffffff",
+      "selection_foreground": "#121212"
+    }
+  },
+  "adjustments": {
+    "blackPoint": 0,
+    "brightness": 0,
+    "contrast": 0,
+    "gamma": 1,
+    "highlights": 0,
+    "hueShift": 0,
+    "saturation": 0,
+    "shadows": 0,
+    "temperature": 0,
+    "tint": 0,
+    "vibrance": 0,
+    "whitePoint": 0
+  },
+  "settings": {},
+  "timestamp": 1777709312787
+}
